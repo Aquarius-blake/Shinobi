@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
 
-  home: Ninjac()
+  home: Shin()
 ));
 
-class Ninjac extends StatelessWidget {
+class Shin extends StatelessWidget {
   String trew;
 
   @override
