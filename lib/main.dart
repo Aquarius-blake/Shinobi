@@ -19,7 +19,7 @@ class Shin extends StatelessWidget {
             trew= "Access Denied";
 
           },
-          child: Text("Find"),
+          child: Text("Search"),
         ),
       appBar: AppBar(
 
